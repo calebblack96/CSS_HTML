@@ -1,0 +1,24 @@
+
+table {
+	border: 2px black
+}
+
+td:hover {
+		background-color:green;
+		color: orange;
+}
+
+tr, th {
+			background-color:yellow;
+			color: red;
+tr, td {
+		background-color: purple;
+		color: blue;
+		
+}
+			
+p{
+	color: darkblue;
+	text-shadow: 2px 2px #00000;
+	font-size: 15px;
+}
